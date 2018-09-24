@@ -1,0 +1,67 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\providecommand{\doi}[1]{https://doi.org/#1}
+
+\bibitem{ieee}
+Ieee standard for floating-point arithmetic. IEEE Std 754-2008 pp. 1--70 (Aug
+  2008). \doi{10.1109/IEEESTD.2008.4610935}
+
+\bibitem{daisyherbie}
+Becker, H., Panchekha, P., Darulova, E., Tatlock, Z.: Combining tools for
+  optimization and analysis of floating-point computations. CoRR
+  \textbf{abs/1805.02436} (2018), \url{http://arxiv.org/abs/1805.02436}
+
+\bibitem{daisy}
+Darulova, E., Izycheva, A., Nasir, F., Ritter, F., Becker, H., Bastian, R.:
+  Daisy - framework for analysis and optimization of numerical programs (tool
+  paper). In: TACAS (2018)
+
+\bibitem{mixedLam}
+Lam, M.O., Hollingsworth, J.K., de~Supinski, B.R., Legendre, M.P.:
+  Automatically adapting programs for mixed-precision floating-point
+  computation. In: Proceedings of the 27th International ACM Conference on
+  International Conference on Supercomputing. pp. 369--378. ICS '13, ACM, New
+  York, NY, USA (2013). \doi{10.1145/2464996.2465018},
+  \url{http://doi.acm.org/10.1145/2464996.2465018}
+
+\bibitem{magron}
+Magron, V., Constantinides, G.A., Donaldson, A.F.: Certified roundoff error
+  bounds using semidefinite programming. CoRR  \textbf{abs/1507.03331} (2015),
+  \url{http://arxiv.org/abs/1507.03331}
+
+\bibitem{herbie}
+Panchekha, P., Sanchez-Stern, A., Wilcox, J.R., Tatlock, Z.: Automatically
+  improving accuracy for floating point expressions. In: Proceedings of the
+  36th ACM SIGPLAN Conference on Programming Language Design and
+  Implementation. pp. 1--11. PLDI '15, ACM, New York, NY, USA (2015).
+  \doi{10.1145/2737924.2737959},
+  \url{http://doi.acm.org/10.1145/2737924.2737959}
+
+\bibitem{precimonius}
+Rubio-González, C., Nguyen, C., Diep~Nguyen, H., Demmel, J., Kahan, W., Sen,
+  K., Bailey, D., Iancu, C., Hough, D.: Precimonius: Tuning assistant for
+  floating-point precision  (11 2013)
+
+\bibitem{herbgrind}
+Sanchez{-}Stern, A., Panchekha, P., Lerner, S., Tatlock, Z.: Finding root
+  causes of floating point error with herbgrind. CoRR  \textbf{abs/1705.10416}
+  (2017), \url{http://arxiv.org/abs/1705.10416}
+
+\bibitem{fptaylor}
+Solovyev, A., Jacobsen, C., Rakamari\'c, Z., Gopalakrishnan, G.: Rigorous
+  estimation of floating-point round-off errors with {Symbolic} {Taylor}
+  {Expansions}. In: Bj{\o}rner, N., de~Boer, F. (eds.) Proceedings of the 20th
+  International Symposium on Formal Methods (FM). Lecture Notes in Computer
+  Science, vol.~9109, pp. 532--550. Springer (2015)
+
+\bibitem{precisa}
+Titolo, L., Feli{\'{u}}, M.A., Moscato, M.M., Mu{\~{n}}oz, C.A.: An abstract
+  interpretation framework for the round-off error analysis of floating-point
+  programs. In: Verification, Model Checking, and Abstract Interpretation -
+  19th International Conference, {VMCAI} 2018, Los Angeles, CA, USA, January
+  7-9, 2018, Proceedings. pp. 516--537 (2018).
+  \doi{10.1007/978-3-319-73721-8\_24},
+  \url{https://doi.org/10.1007/978-3-319-73721-8\_24}
+
+\end{thebibliography}
